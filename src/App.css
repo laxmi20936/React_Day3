@@ -1,0 +1,14 @@
+body{
+  color:wheat;
+  /* background-color: aqua;
+  height:50% */
+  
+
+}
+.container-flex{
+  display:flex;
+  justify-content: space-between;
+  background-color: aqua;
+  height:80px;
+  align-items: center;
+}
